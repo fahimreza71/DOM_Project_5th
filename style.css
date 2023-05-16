@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+}
+
+.card_1{
+    padding: 20px;
+    margin: 20px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.card_2{
+    padding: 20px;
+    margin: 20px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.card_3{
+    padding: 20px;
+    margin: 20px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.card_4{
+    padding: 20px;
+    margin: 20px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.btn{
+    background-color: aqua;
+    border-radius: 3px;
+    margin-top: 10px;
+}
